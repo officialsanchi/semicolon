@@ -1,0 +1,139 @@
+
+.navbar{
+    background-color: white;
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+
+.inner{
+    display: flex;
+    line-height: 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-right: 90px;
+    text-decoration: none;
+   
+}
+.inner li{
+    text-decoration: none;
+    list-style: none;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.for{
+    display: flex;
+    gap: 6px;
+    border: 5px;
+    border-radius: 10px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: darkslategray;
+}
+
+.human img{
+    width: 700px;
+    margin-left: 60%;
+    display: flex;
+}
+
+.innersecond{
+    align-items: center;
+    /* width: 500px; */
+    justify-content: space-between;
+    /* margin-right: 20px; */
+    padding: 60px;
+}
+.logo{
+    margin-right: 550px;
+
+}
+.join{
+   /* border: 10cm;
+   border-radius: 10%; */
+   height: 40px;
+   width: fit-content;
+   background-color: white;
+   text-align: center;
+   border-radius: 5px;
+   border-color:red;
+   color: red;
+   font-size: 20px;
+}
+.third{
+    
+    background-color: red;
+    color: white;
+    width: 500px;
+    height: 300px;
+    padding: 10px 10px 5px 5px;
+    border-radius: 15px;
+    font-weight: 500px;
+    font-size: 20px;
+    
+    
+
+}
+.middle{
+    background-color: red;
+    color: white;
+    width: 500px;
+    height: 300px;
+    padding: 10px 10px 5px 5px;
+    border-radius: 15px;
+    font-weight: 500px;
+    font-size: 20px;
+    
+
+}
+.last{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+     /* justify-content: space-evenly; */
+}
+.des{
+    margin-left: 300px;
+    font-size: 30px;
+   
+    
+}
+.circle{
+    width: 2%;
+    border-radius: 150px;
+    background-color: white;
+    /* border: 20px; */
+    height: 2%;
+    /* border-color: white; */
+   background-color: transparent;
+    border: 5px solid white;
+    padding: 20px;
+    
+}
+.block{
+    width: 2px;
+    background-color: transparent;
+    border: 5px solid white;
+    height: 2px;
+    padding: 20px;
+}
+.class{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+
+   
+
+}
+.layer{
+    display: flex;
+}

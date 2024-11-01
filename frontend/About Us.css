@@ -1,0 +1,49 @@
+.container{
+   
+        background-color: white;
+        display: flex;
+        /* justify-content: space-between; */
+    
+   
+}
+.photo{
+    margin-right: 550px;
+}
+.list{
+    
+        display: flex;
+        line-height: 5px;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        margin-right: 30px;
+        text-decoration: none;
+   
+}
+.list li{
+    
+        text-decoration: none;
+        list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: darkslategray;
+}
+.nat{
+    
+        /* border: 10cm;
+        border-radius: 10%; */
+        height: 40px;
+        width: fit-content;
+        background-color: white;
+        text-align: center;
+        border-radius: 5px;
+        border-color:red;
+        color: red;
+        font-size: 20px;
+    
+}
+.main img{
+    width: 100%;
+}
